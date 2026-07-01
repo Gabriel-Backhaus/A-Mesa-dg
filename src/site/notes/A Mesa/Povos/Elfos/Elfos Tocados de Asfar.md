@@ -12,7 +12,7 @@ Os Tocados veneram Bruma como a matriarca de seu povo e guardiã dos primeiros e
 
 Os Tocados de Asfar não possuem um reino unificado nem uma autoridade central. Espalhados por todo [[Aljanub\|Aljanub]], organizam-se em famílias, comunidades e linhagens ancestrais que preservam suas tradições através das gerações.
 
-Entre eles, prestígio costuma estar associado à sabedoria, à idade, ao conhecimento das tradições e à reputação pessoal. Embora se considerem descendentes de [[Bruma\|Bruma]] e herdeiros de [[Alfar\|Alfar]], os Tocados desenvolveram uma identidade própria e não reconhecem a autoridade política do [[Grande Imperador Élfico\|Grande Imperador Élfico]] de [[Gloria\|Gloria]].
+Entre eles, prestígio costuma estar associado à sabedoria, à idade, ao conhecimento das tradições e à reputação pessoal. Embora se considerem descendentes de [[Bruma\|Bruma]] e herdeiros de [[Alfar\|Alfar]], os Tocados desenvolveram uma identidade própria e não reconhecem a autoridade política do [[Grande Imperador Élfico\|Grande Imperador Élfico]] de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]].
 
 # Economia:
 

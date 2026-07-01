@@ -7,12 +7,12 @@
 
 # Introdução
 
-Elenvar é uma cidade portuária localizada na costa meridional de [[Gloria\|Gloria]], às margens do [[Canal de Luneth\|Canal de Luneth]]. Por muitos séculos serviu como principal elo entre os mercados de [[Lartuath\|Lartuath]] e [[Plagan\|Plagan]], tornando-se um dos mais importantes centros comerciais da Mesa.
+Elenvar é uma cidade portuária localizada na costa meridional de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]], às margens do [[Canal de Luneth\|Canal de Luneth]]. Por muitos séculos serviu como principal elo entre os mercados de [[Lartuath\|Lartuath]] e [[Plagan\|Plagan]], tornando-se um dos mais importantes centros comerciais da Mesa.
 
 Sua posição estratégica fez dela um entreposto mercantil importantíssimo e o principal motivo da [[A Mesa/Eventos/Guerra Anã\|Guerra Anã]], conflito que alterou permanentemente o equilíbrio político e econômico do norte.
 # História
 
-Segundo os registros élficos, Elenvar nasceu como uma pequena comunidade de pescadores e navegadores durante o primeiro século da [[A Mesa/Eventos/Terceira Era\|Terceira Era]], crescendo gradualmente até controlar quase todo o comércio marítimo entre [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], [[Gloria\|Gloria]] e os reinos humanos além do [[Mare Magnum\|Mare Magnum]].
+Segundo os registros élficos, Elenvar nasceu como uma pequena comunidade de pescadores e navegadores durante o primeiro século da [[A Mesa/Eventos/Terceira Era\|Terceira Era]], crescendo gradualmente até controlar quase todo o comércio marítimo entre [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]] e os reinos humanos além do [[Mare Magnum\|Mare Magnum]].
 
 Durante muito tempo, praticamente toda mercadoria destinada ao sul passava obrigatoriamente por seus cais. Os impostos e taxas de circulação enriqueceram a cidade e fizeram dela um dos maiores polos comerciais de Lartuath.
 

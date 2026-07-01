@@ -14,7 +14,7 @@ Em 250 T.E., [[Afonso de Alvor\|Afonso de Alvor]] reuniu representantes das prin
 
 Seus sucessores expandiram gradualmente essa administração, nomeando regentes regionais e fortalecendo os vínculos entre as diferentes comunidades. Com o passar das gerações, o cargo tornou-se hereditário, e a autoridade central consolidou-se em [[A Mesa/Regiões & Geopolítica/Alvora\|Alvora]], cidade fundada para servir como sede administrativa do novo Estado. Eventualmente, os descendentes dos antigos regentes adotaram o título de rei, estabelecendo a monarquia que governa Agronostrum até os dias atuais.
 
-Ao longo dos séculos seguintes, Agronostrum transformou-se de uma fronteira colonial em uma das principais potências de [[Lartuath\|Lartuath]]. Sua posição estratégica entre [[Gloria\|Gloria]], [[A Mesa/Regiões & Geopolítica/Ana\|Ana]] e [[Plagan\|Plagan]] favoreceu o crescimento do comércio, da agricultura e da influência política do reino.
+Ao longo dos séculos seguintes, Agronostrum transformou-se de uma fronteira colonial em uma das principais potências de [[Lartuath\|Lartuath]]. Sua posição estratégica entre [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]], [[A Mesa/Regiões & Geopolítica/Ana\|Ana]] e [[Plagan\|Plagan]] favoreceu o crescimento do comércio, da agricultura e da influência política do reino.
 
 Entre os nostrianos, contudo, a fundação do reino raramente é associada a reis ou conquistas militares. A narrativa mais comum afirma que Agronostrum nasceu quando homens e mulheres de diferentes origens decidiram abandonar antigas rivalidades e construir juntos uma nova pátria nas terras do norte.
 
@@ -30,13 +30,13 @@ Entre os agronostrianos é comum a crença de que o rei não governa por direito
 
 # Geografia
 
-Agronostrum ocupa as vastas planícies centrais do sul de [[Lartuath\|Lartuath]], situando-se entre [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], [[Gloria\|Gloria]] e os reinos de [[Plagan\|Plagan]]. Sua posição geográfica privilegiada faz do reino uma importante ponte entre os povos do continente e uma das regiões mais acessíveis para o comércio terrestre.
+Agronostrum ocupa as vastas planícies centrais do sul de [[Lartuath\|Lartuath]], situando-se entre [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]] e os reinos de [[Plagan\|Plagan]]. Sua posição geográfica privilegiada faz do reino uma importante ponte entre os povos do continente e uma das regiões mais acessíveis para o comércio terrestre.
 
 A maior parte do território é formada por campos férteis, colinas suaves e vales amplos, ideais para a agricultura e a criação de animais. Diversos rios atravessam a região em direção ao [[Mare Magnum\|Mare Magnum]], irrigando as planícies e facilitando o transporte de pessoas e mercadorias entre as cidades do reino.
 
 Ao oeste, as montanhas que marcam a fronteira com [[A Mesa/Regiões & Geopolítica/Ana\|Ana]] formam uma barreira natural que separa as planícies nostrianas dos vales anões. Ao sul, cadeias montanhosas e florestas delimitam a transição para os antigos reinos de [[Plagan\|Plagan]], terras de onde partiram os primeiros colonos que fundariam Agronostrum.
 
-As fronteiras setentrionais aproximam-se das grandes florestas de [[Gloria\|Gloria]] e das rotas que conduzem a [[Norden\|Norden]], tornando o reino um importante ponto de encontro entre humanos, elfos, anões e povos do norte.
+As fronteiras setentrionais aproximam-se das grandes florestas de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]] e das rotas que conduzem a [[Norden\|Norden]], tornando o reino um importante ponto de encontro entre humanos, elfos, anões e povos do norte.
 
 Embora possua acesso ao [[Mare Magnum\|Mare Magnum]], Agronostrum não alcança os grandes oceanos que cercam o continente. Ainda assim, os portos e rios do mar interior desempenham papel fundamental em sua economia, permitindo o transporte de cereais, cavalos, lã e outros produtos para diversas regiões de Lartuath.
 
@@ -55,7 +55,7 @@ A economia de Agronostrum é baseada principalmente na agricultura, pecuária e 
 
 A criação de cavalos, bovinos e ovinos desempenha papel igualmente importante. Cavalos agronostrianos são especialmente valorizados em toda [[Lartuath\|Lartuath]] por sua resistência e qualidade, enquanto lã, couro, queijo e carne conservada figuram entre os principais produtos exportados pelo reino.
 
-A posição central de Agronostrum entre [[Gloria\|Gloria]], [[A Mesa/Regiões & Geopolítica/Ana\|Ana]] e [[Plagan\|Plagan]] favorece o desenvolvimento do comércio. Estradas movimentadas conectam cidades, vilas e postos de fronteira, permitindo a circulação constante de mercadores, viajantes e caravanas. Produtos agrícolas agronostrianos são frequentemente trocados por metais anões, manufaturas élficas, artigos de luxo e mercadorias provenientes dos portos do sul.
+A posição central de Agronostrum entre [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]], [[A Mesa/Regiões & Geopolítica/Ana\|Ana]] e [[Plagan\|Plagan]] favorece o desenvolvimento do comércio. Estradas movimentadas conectam cidades, vilas e postos de fronteira, permitindo a circulação constante de mercadores, viajantes e caravanas. Produtos agrícolas agronostrianos são frequentemente trocados por metais anões, manufaturas élficas, artigos de luxo e mercadorias provenientes dos portos do sul.
 
 Diferentemente de muitos de seus vizinhos, cuja prosperidade está associada a recursos raros ou produtos de alto valor, a riqueza de Agronostrum provém principalmente da produção em larga escala e do trabalho de sua população. Entre os agronostrianos, é comum a crença de que nenhuma riqueza é mais valiosa do que aquela obtida através da terra cultivada.
 
@@ -63,7 +63,7 @@ Não por acaso, muitos estrangeiros referem-se a Agronostrum como o celeiro de L
 
 # As Forças Armadas
 
-As forças armadas de Agronostrum têm suas origens nas antigas milícias de colonos que protegeram as primeiras vilas do norte durante os séculos de fronteira. Diferentemente dos exércitos de [[Gloria\|Gloria]], organizados em torno de tradições aristocráticas élficas, ou dos guerreiros de [[Feudunort\|Feudunort]], moldados pelos rigores do inverno, os agronostrianos desenvolveram uma cultura militar baseada na defesa das comunidades, na mobilidade e na cooperação entre regiões distantes.
+As forças armadas de Agronostrum têm suas origens nas antigas milícias de colonos que protegeram as primeiras vilas do norte durante os séculos de fronteira. Diferentemente dos exércitos de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]], organizados em torno de tradições aristocráticas élficas, ou dos guerreiros de [[Feudunort\|Feudunort]], moldados pelos rigores do inverno, os agronostrianos desenvolveram uma cultura militar baseada na defesa das comunidades, na mobilidade e na cooperação entre regiões distantes.
 
 A infantaria, composta pelos **Men-at-Arms**, constitui a base do exército. Armados com lanças, escudos e armaduras de boa qualidade, são treinados para defender cidades, estradas e formações de campo. Complementando suas fileiras estão os **Cavaliers**, cuja habilidade equestre é amplamente reconhecida em toda [[Lartuath\|Lartuath]]. Utilizados para reconhecimento, patrulhamento e combate em campo aberto, representam uma das forças mais prestigiadas do reino.
 
@@ -77,9 +77,9 @@ Por fim, destacam-se os **Vigilants**, uma ordem de elite encarregada da proteç
 
 A posição geográfica de Agronostrum no centro de [[Lartuath\|Lartuath]] faz com que o reino mantenha relações constantes com praticamente todas as grandes potências da região. Ao longo de sua história, os nostrianos desenvolveram uma tradição diplomática baseada no comércio, na cooperação e na defesa de seus próprios interesses, evitando envolvimentos desnecessários em disputas estrangeiras.
 
-As relações com [[A Mesa/Regiões & Geopolítica/Ana\|Ana]] encontram-se entre as mais próximas do continente. Séculos de intercâmbio comercial e cooperação militar aproximaram os dois povos, situação fortalecida após a [[A Mesa/Eventos/Guerra Anã\|Guerra Anã]], quando Agronostrum apoiou os anões contra [[Gloria\|Gloria]] e mais tarde contra os reinos de [[Plagan\|Plagan]].
+As relações com [[A Mesa/Regiões & Geopolítica/Ana\|Ana]] encontram-se entre as mais próximas do continente. Séculos de intercâmbio comercial e cooperação militar aproximaram os dois povos, situação fortalecida após a [[A Mesa/Eventos/Guerra Anã\|Guerra Anã]], quando Agronostrum apoiou os anões contra [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]] e mais tarde contra os reinos de [[Plagan\|Plagan]].
 
-Com [[Gloria\|Gloria]], as relações permanecem estáveis e amplamente pacíficas, sustentadas por um intenso fluxo comercial e três séculos de convivência. Ainda assim, a posição adotada por Agronostrum durante a guerra deixou marcas perceptíveis entre setores da nobreza, dos exércitos e das cortes de ambos os reinos.
+Com [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]], as relações permanecem estáveis e amplamente pacíficas, sustentadas por um intenso fluxo comercial e três séculos de convivência. Ainda assim, a posição adotada por Agronostrum durante a guerra deixou marcas perceptíveis entre setores da nobreza, dos exércitos e das cortes de ambos os reinos.
 
 As relações com [[Plagan\|Plagan]] são marcadas por uma mistura de proximidade cultural e rivalidade histórica. Os nostrianos reconhecem suas origens plaganenses, mas também valorizam profundamente a identidade construída após séculos de independência. A participação de Agronostrum na guerra contra os reinos do sul contribuiu para reforçar esse sentimento nacional, sendo frequentemente lembrada como um dos momentos em que o reino afirmou definitivamente sua autonomia perante seus antigos parentes.
 

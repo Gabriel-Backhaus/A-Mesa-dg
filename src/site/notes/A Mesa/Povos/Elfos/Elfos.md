@@ -8,7 +8,7 @@
 Assim como os [[A Mesa/Povos/Anões/Anões\|Anões]] e humanos, os primeiros elfos viviam em Aljanub, porém durante a [[A Mesa/Eventos/Primeira Era\|Primeira Era]] muitos foram para o oeste, e durante a [[A Mesa/Eventos/Terceira Era\|Terceira Era]] a maioria vive no reino de Gloria, nas grandes florestas no leste de Lartuath.
 
 # Povos Élficos:
-Os [[A Mesa/Povos/Elfos/Elfos da Alta Coorte\|Elfos da Alta Coorte]], no centro de [[Gloria\|Gloria]].
+Os [[A Mesa/Povos/Elfos/Elfos da Alta Coorte\|Elfos da Alta Coorte]], no centro de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]].
 Os [[A Mesa/Povos/Elfos/Elfos Verdes\|Elfos Verdes]], na região de [[A Mesa/Regiões & Geopolítica/Auriel\|Auriel]].
 Os [[A Mesa/Povos/Elfos/Elfos Pálidos\|Elfos Pálidos]], em [[Feudunort\|Feudunort]].
 Os [[A Mesa/Povos/Elfos/Elfos Tocados de Asfar\|Elfos Tocados de Asfar]], em [[Aljanub\|Aljanub]].

@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/A Mesa/Povos/Elfos/Elfos Pálidos/","dg-note-properties":{}}
 ---
 
-Os **elfos pálidos** são um povo [[A Mesa/Povos/Elfos/Elfos\|élfico]] das florestas gélidas de [[Feudunort\|Feudunort]],  no norte de [[Gloria\|Gloria]]. São um povo prático e bastante conservador de nobres guerreiros e caçadores.
+Os **elfos pálidos** são um povo [[A Mesa/Povos/Elfos/Elfos\|élfico]] das florestas gélidas de [[Feudunort\|Feudunort]],  no norte de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]]. São um povo prático e bastante conservador de nobres guerreiros e caçadores.
 
 # Religião:
 
-Os Elfos Pálidos são tradicionalmente seguidores do [[A Mesa/Religiões/Duodecalismo\|Duodecalismo]], sendo considerados um dos povos mais conservadores de [[Gloria\|Gloria]] em questões religiosas. Em [[Feudunort\|Feudunort]], a fé costuma enfatizar disciplina, autocontrole e respeito pelas forças da criação.
+Os Elfos Pálidos são tradicionalmente seguidores do [[A Mesa/Religiões/Duodecalismo\|Duodecalismo]], sendo considerados um dos povos mais conservadores de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]] em questões religiosas. Em [[Feudunort\|Feudunort]], a fé costuma enfatizar disciplina, autocontrole e respeito pelas forças da criação.
 
 A devoção a [[Bruma\|Bruma]] permanece central, porém os Pálidos tendem a retratá-la menos como imperatriz política e mais como controladora da natureza hostil. Entre eles é comum a crença de que a verdadeira nobreza não é demonstrada através do poder ou da riqueza, mas pela capacidade de permanecer firme diante das adversidades.
 
@@ -18,7 +18,7 @@ A relação dos Elfos Pálidos com o [[A Mesa/Religiões/Enoquismo\|Enoquismo]] 
 
 A sociedade dos Elfos Pálidos é organizada em torno de antigas casas nobres que governam os vales, picos e florestas de [[Feudunort\|Feudunort]]. Prestígio social está fortemente ligado à honra, ao cumprimento dos deveres e à capacidade de proteger aqueles que dependem de sua liderança.
 
-Embora reconheçam a autoridade do [[Grande Imperador Élfico\|Grande Imperador Élfico]], os nobres de Feudunort tradicionalmente exercem grande autonomia em seus territórios. A distância em relação à [[Gloria\|Gloria]] central e as condições rigorosas do norte fizeram com que os governantes locais desenvolvessem uma cultura política baseada na autossuficiência e na responsabilidade pessoal.
+Embora reconheçam a autoridade do [[Grande Imperador Élfico\|Grande Imperador Élfico]], os nobres de Feudunort tradicionalmente exercem grande autonomia em seus territórios. A distância em relação à [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]] central e as condições rigorosas do norte fizeram com que os governantes locais desenvolvessem uma cultura política baseada na autossuficiência e na responsabilidade pessoal.
 
 Caçadores, guerreiros, exploradores e administradores são figuras altamente respeitadas. Entre os Pálidos, a competência costuma ser valorizada acima da riqueza, e um líder incapaz de cumprir suas obrigações pode perder rapidamente o respeito de seus subordinados, independentemente da antiguidade de sua linhagem.
 
@@ -28,7 +28,7 @@ A vida nas regiões geladas do norte também fortaleceu os laços comunitários.
 
 # Economia:
 
-A economia de [[Feudunort\|Feudunort]] é baseada na exploração dos recursos do norte de [[Lartuath\|Lartuath]], no comércio marítimo e na posição estratégica da região entre [[Gloria\|Gloria]], [[Norden\|Norden]], [[Hoherschnee\|Hoherschnee]] e as [[Regiões Bárbaras\|Regiões Bárbaras]].
+A economia de [[Feudunort\|Feudunort]] é baseada na exploração dos recursos do norte de [[Lartuath\|Lartuath]], no comércio marítimo e na posição estratégica da região entre [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]], [[Norden\|Norden]], [[Hoherschnee\|Hoherschnee]] e as [[Regiões Bárbaras\|Regiões Bárbaras]].
 
 As florestas geladas do norte fornecem madeira, peles, resinas, ervas raras e diversos produtos altamente valorizados nos mercados élficos. A caça também desempenha papel importante na economia local, especialmente a obtenção de couro, lã e outros materiais utilizados na confecção de roupas destinadas aos climas mais rigorosos do continente.
 
@@ -38,11 +38,11 @@ A proximidade com [[Norden\|Norden]] e [[Hoherschnee\|Hoherschnee]] transformou 
 
 As relações com as [[Regiões Bárbaras\|Regiões Bárbaras]] são mais complexas. Embora conflitos ocasionais ocorram nas fronteiras, o comércio nunca deixou de existir completamente. Algumas famílias nobres mantêm séculos de relações diplomáticas e comerciais com tribos específicas, garantindo acesso a rotas e recursos que seriam inacessíveis para mercadores estrangeiros.
 
-Diferentemente da [[Gloria\|Gloria]] central, cuja riqueza frequentemente se concentra em produtos de luxo, boa parte da prosperidade de Feudunort provém de atividades consideradas essenciais para a sobrevivência em ambientes hostis. Seus habitantes costumam valorizar utilidade, durabilidade e autossuficiência acima da ostentação.
+Diferentemente da [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]] central, cuja riqueza frequentemente se concentra em produtos de luxo, boa parte da prosperidade de Feudunort provém de atividades consideradas essenciais para a sobrevivência em ambientes hostis. Seus habitantes costumam valorizar utilidade, durabilidade e autossuficiência acima da ostentação.
 
 # Força Militar:
 
-Os exércitos dos Elfos Pálidos são responsáveis pela proteção das fronteiras setentrionais de [[Gloria\|Gloria]] e das rotas comerciais que ligam o reino aos povos do norte de [[Lartuath\|Lartuath]]. Acostumados aos rigorosos invernos de [[Feudunort\|Feudunort]], desenvolveram uma tradição militar baseada em disciplina, resistência e autossuficiência.
+Os exércitos dos Elfos Pálidos são responsáveis pela proteção das fronteiras setentrionais de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]] e das rotas comerciais que ligam o reino aos povos do norte de [[Lartuath\|Lartuath]]. Acostumados aos rigorosos invernos de [[Feudunort\|Feudunort]], desenvolveram uma tradição militar baseada em disciplina, resistência e autossuficiência.
 
 Diferentemente dos exércitos da [[A Mesa/Povos/Elfos/Elfos da Alta Coorte\|Alta Coorte]], que frequentemente privilegiam estratégia e manobras políticas, ou dos [[A Mesa/Povos/Elfos/Elfos Verdes\|Elfos Verdes]], que valorizam mobilidade e patrulhamento, os Pálidos são conhecidos por sua capacidade de manter posições, sobreviver em ambientes hostis e conduzir campanhas prolongadas em condições extremas.
 
@@ -74,13 +74,13 @@ Os savants de Feudunort são estudiosos militares, navegadores, astrônomos e ca
 Muitos também atuam como conselheiros das grandes casas nobres e comandantes de expedições.
 ## Veilleurs du Nord
 
-A marinha de Feudunort, conhecida como "Veilleurs du Nord" (Vigilantes do Norte), é uma das mais respeitadas de [[Gloria\|Gloria]]. Seus navios patrulham mares gelados, escoltam comboios mercantes e protegem as rotas marítimas que conectam o Império Élfico aos povos setentrionais.
+A marinha de Feudunort, conhecida como "Veilleurs du Nord" (Vigilantes do Norte), é uma das mais respeitadas de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]]. Seus navios patrulham mares gelados, escoltam comboios mercantes e protegem as rotas marítimas que conectam o Império Élfico aos povos setentrionais.
 
 Marinheiros pálidos são famosos pela capacidade de navegar em neblina, tempestades e águas repletas de gelo flutuante. Em tempos de guerra, a frota atua como primeira linha de defesa contra invasões vindas do norte.
 
 # Força Militar:
 
-Os exércitos dos Elfos Pálidos são considerados os mais resistentes dentre os povos de [[Gloria\|Gloria]]. Acostumados aos invernos rigorosos de [[Feudunort\|Feudunort]], às longas distâncias entre assentamentos e às constantes ameaças vindas do norte, desenvolveram uma tradição militar baseada em disciplina, resistência e capacidade de operar em condições adversas.
+Os exércitos dos Elfos Pálidos são considerados os mais resistentes dentre os povos de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]]. Acostumados aos invernos rigorosos de [[Feudunort\|Feudunort]], às longas distâncias entre assentamentos e às constantes ameaças vindas do norte, desenvolveram uma tradição militar baseada em disciplina, resistência e capacidade de operar em condições adversas.
 
 Diferentemente da [[A Mesa/Povos/Elfos/Elfos da Alta Coorte\|Alta Coorte]], que privilegia planejamento político e estratégico, ou dos [[A Mesa/Povos/Elfos/Elfos Verdes\|Elfos Verdes]], especializados na proteção das fronteiras meridionais, os Pálidos destacam-se pela capacidade de sustentar campanhas prolongadas em regiões hostis.
 
@@ -114,7 +114,7 @@ Em tempos de guerra, suas embarcações atuam em conjunto com as frotas da [[A M
 
 # Culinária:
 
-A culinária dos Elfos Pálidos reflete as condições rigorosas de [[Feudunort\|Feudunort]]. Embora mantenham a tradicional apreciação élfica pelo equilíbrio dos sabores, seus pratos tendem a ser mais substanciais do que aqueles encontrados em outras regiões de [[Gloria\|Gloria]].
+A culinária dos Elfos Pálidos reflete as condições rigorosas de [[Feudunort\|Feudunort]]. Embora mantenham a tradicional apreciação élfica pelo equilíbrio dos sabores, seus pratos tendem a ser mais substanciais do que aqueles encontrados em outras regiões de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]].
 
 Peixes de águas frias, carnes de caça, raízes, cogumelos e frutas preservadas constituem a base de muitas refeições. Métodos de defumação, secagem e conservação são amplamente utilizados para garantir alimento durante os longos invernos do norte.
 

@@ -6,7 +6,7 @@
 > 
 > — [[A Mesa/Personalidades/Professor Álvaro de Oliveira\|Professor Álvaro de Oliveira]], 452 T.E.
 
-**Théodoric Auriano**, posteriormente conhecido como **Théodoric de Gloria**, foi o terceiro rei de [[Gloria\|Gloria]] e o primeiro a receber o título de [[Grande Imperador Élfico\|Grande Imperador Élfico]]. Seu reinado marcou a transformação de Gloria de um poderoso reino élfico em uma autoridade reconhecida por diversos povos e governantes de [[Lartuath\|Lartuath]].
+**Théodoric Auriano**, posteriormente conhecido como **Théodoric de Gloria**, foi o terceiro rei de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]] e o primeiro a receber o título de [[Grande Imperador Élfico\|Grande Imperador Élfico]]. Seu reinado marcou a transformação de Gloria de um poderoso reino élfico em uma autoridade reconhecida por diversos povos e governantes de [[Lartuath\|Lartuath]].
 
 Séculos após sua morte, muitos historiadores passariam a chamá-lo de **Alfar II**, considerando-o uma das figuras mais importantes da história élfica desde os tempos de [[Alfar\|Alfar]].
 
@@ -18,13 +18,13 @@ Os relatos de sua juventude costumam descrevê-lo menos como guerreiro e mais co
 
 # Aliança com os Elfos Verdes
 
-Os relatos sobre a aproximação entre Théodoric e os [[A Mesa/Povos/Elfos/Elfos Verdes\|Elfos Verdes]] são frequentemente cercados por lendas e contradições. A tradição mais difundida afirma que, ainda jovem, Théodoric passou vários anos viajando pelas florestas do oeste de [[Gloria\|Gloria]] ao lado do Rei dos Elfos Verdes.
+Os relatos sobre a aproximação entre Théodoric e os [[A Mesa/Povos/Elfos/Elfos Verdes\|Elfos Verdes]] são frequentemente cercados por lendas e contradições. A tradição mais difundida afirma que, ainda jovem, Théodoric passou vários anos viajando pelas florestas do oeste de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]] ao lado do Rei dos Elfos Verdes.
 
 Segundo essas histórias, o futuro imperador teria se apresentado apenas como Théodoric de [[A Mesa/Regiões & Geopolítica/Auriel\|Auriel]], ocultando sua posição como herdeiro da coroa gloriana. Durante esse período, acompanhou caçadas, participou de assembleias comunitárias, percorreu trilhas remotas e conviveu diretamente com as comunidades florestais.
 
 Embora seja impossível determinar quanto desses relatos corresponde aos fatos, a amizade entre os dois governantes é amplamente aceita pelos historiadores. Quando Théodoric finalmente revelou sua verdadeira identidade, o Rei Verde já o conhecia há anos e, segundo a tradição, teria respondido: _"Eu sei."_
 
-Pouco tempo depois, os Elfos Verdes tornaram-se o primeiro povo a reconhecer oficialmente a autoridade de Théodoric para representar todos os elfos. Muitos estudiosos consideram esta aliança um dos acontecimentos mais importantes da formação do Grande Império de Gloria, pois demonstrou que sua liderança podia ser reconhecida não apenas por reis e nobres, mas também por povos cujas comunidades permaneciam dispersas por toda [[Gloria\|Gloria]].
+Pouco tempo depois, os Elfos Verdes tornaram-se o primeiro povo a reconhecer oficialmente a autoridade de Théodoric para representar todos os elfos. Muitos estudiosos consideram esta aliança um dos acontecimentos mais importantes da formação do Grande Império de Gloria, pois demonstrou que sua liderança podia ser reconhecida não apenas por reis e nobres, mas também por povos cujas comunidades permaneciam dispersas por toda [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]].
 
 Entre os Elfos Verdes, ainda hoje é comum a crença de que Théodoric não conquistou sua confiança através da autoridade ou da força, mas por ter vivido entre eles e demonstrado, através de suas ações, ser digno da responsabilidade que mais tarde receberia.
 

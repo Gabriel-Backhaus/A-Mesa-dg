@@ -19,7 +19,7 @@ Grandes oficinas e indústrias frequentemente empregam dezenas ou até centenas 
 
 Eisenfeuer é o principal centro metalúrgico de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]]. Suas montanhas são ricas em ferro, carvão mineral, prata e outros metais valiosos, alimentando uma vasta rede de minas, fundições e forjas espalhadas pelo kreis.
 
-Grande parte das armas, armaduras, ferramentas e máquinas produzidas em Ana têm origem barbenbrasa. Seus produtos são exportados para todos os demais kreisens e também para reinos estrangeiros, sendo especialmente valorizados em [[A Mesa/Regiões & Geopolítica/Agronostrum\|Agronostrum]], [[Plagan\|Plagan]] e até mesmo em [[Gloria\|Gloria]].
+Grande parte das armas, armaduras, ferramentas e máquinas produzidas em Ana têm origem barbenbrasa. Seus produtos são exportados para todos os demais kreisens e também para reinos estrangeiros, sendo especialmente valorizados em [[A Mesa/Regiões & Geopolítica/Agronostrum\|Agronostrum]], [[Plagan\|Plagan]] e até mesmo em [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]].
 
 Após a [[A Mesa/Eventos/Guerra Anã\|Guerra Anã]], a abertura das rotas comerciais através do [[Mare Magnum\|Mare Magnum]] aumentou significativamente a riqueza de Eisenfeuer, permitindo que seus artesãos alcançassem mercados antes inacessíveis. A prosperidade do kreis está diretamente ligada à extração de minérios e à transformação destes recursos em produtos manufaturados de alto valor.
 

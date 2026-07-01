@@ -9,7 +9,7 @@
 
 # História
 
-Os registros indicam que Souverainne surgiu em 377 T.E como um pequeno porto destinado a atender embarcações comerciais que navegavam entre outras cidades de [[Gloria\|Gloria]], e o [[Oceano Interno\|Oceano Interno]]. Na época era apenas uma pequena vila chamada de Souve (muitas vezes) pelos marinheiros que passavam por ela frequentemente.
+Os registros indicam que Souverainne surgiu em 377 T.E como um pequeno porto destinado a atender embarcações comerciais que navegavam entre outras cidades de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]], e o [[Oceano Interno\|Oceano Interno]]. Na época era apenas uma pequena vila chamada de Souve (muitas vezes) pelos marinheiros que passavam por ela frequentemente.
 
 Sua posição privilegiada fez com que a vila desempenhasse uma papel muito  importante para o comercio de Gloria Central. Comerciantes, navegadores, artesãos e aventureiros atracavam no porto constantemente, até que a [[Casa Montclair\|Casa Montclair]] construiu uma residência na vila, nos anos seguintes a vila cresceu e se desenvolveu, rapidamente alcançando o reconhecimento como cidade, e passou a ser chamada de Souverainne (a soberana).
 
@@ -61,7 +61,7 @@ O bairro artístico, e o centro do entretenimento. Teatros, tavernas, salões mu
 Entre os jovens da cidade, Bellchant possui fama tanto de distrito cultural quanto de local de excessos, e geralmente é evitado pelos mais velhos.
 
 ## Surpilots
-Construído sobre uma complexa rede de estacas, plataformas e pontes erguidas sobre os canais internos da cidade, talvez o distrito mais peculiar para os estrangeiros. Suas construções parecem flutuar sobre a água, ligadas por inúmeras passarelas de madeira. Bancos, companhias mercantis, casas de câmbio e escritórios de navegação concentram-se na região, onde se dão algumas das operações financeiras mais importantes de [[Gloria\|Gloria]].
+Construído sobre uma complexa rede de estacas, plataformas e pontes erguidas sobre os canais internos da cidade, talvez o distrito mais peculiar para os estrangeiros. Suas construções parecem flutuar sobre a água, ligadas por inúmeras passarelas de madeira. Bancos, companhias mercantis, casas de câmbio e escritórios de navegação concentram-se na região, onde se dão algumas das operações financeiras mais importantes de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]].
 
 # Problemas:
 

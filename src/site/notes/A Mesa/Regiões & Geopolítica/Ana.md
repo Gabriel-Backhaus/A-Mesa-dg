@@ -100,7 +100,7 @@ Tradicionalmente, os exércitos dividem-se em:
 
 Ana mantém relações diplomáticas com praticamente todos os grandes reinos de Lartuath.
 
-Com [[Gloria\|Gloria]], compartilha séculos de comércio, intercâmbio técnico e rivalidade política. A [[A Mesa/Eventos/Guerra Anã\|Guerra Anã]] marcou profundamente a história de ambos os povos, mas a paz firmada por [[Suldar Hertz dos Berges\|Suldar Hertz dos Berges]] inaugurou um período de relações pragmáticas e cooperação econômica.
+Com [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]], compartilha séculos de comércio, intercâmbio técnico e rivalidade política. A [[A Mesa/Eventos/Guerra Anã\|Guerra Anã]] marcou profundamente a história de ambos os povos, mas a paz firmada por [[Suldar Hertz dos Berges\|Suldar Hertz dos Berges]] inaugurou um período de relações pragmáticas e cooperação econômica.
 
 Com [[A Mesa/Regiões & Geopolítica/Agronostrum\|Agronostrum]], Ana mantém atualmente sua mais estreita parceria internacional. Os nostrianos fornecem alimentos, enquanto os anões exportam ferramentas, armas e produtos manufaturados. A cooperação durante a Guerra fortaleceu ainda mais os laços entre ambos os reinos.
 

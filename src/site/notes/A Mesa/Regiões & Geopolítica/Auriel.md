@@ -39,7 +39,7 @@ Há médicos que utilizam suas águas na preparação de remédios milagrosos. V
 
 Outros juram que o tempo passa de maneira diferente em suas proximidades. Alguns afirmam ter permanecido anos em Auriel apenas para descobrir que poucas semanas transcorreram em suas terras natais.
 
-Ninguém ainda sabe qual a verdadeira natureza da Fonte, mas fato é que foi sua aura de maravilha que permitiu a criação da cidade de Auriel e do Império de [[Gloria\|Gloria]].
+Ninguém ainda sabe qual a verdadeira natureza da Fonte, mas fato é que foi sua aura de maravilha que permitiu a criação da cidade de Auriel e do Império de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]].
 
 # Thalorien - O Centro Histórico
 

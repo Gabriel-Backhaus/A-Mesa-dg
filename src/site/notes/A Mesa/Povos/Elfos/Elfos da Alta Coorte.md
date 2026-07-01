@@ -2,19 +2,19 @@
 {"dg-publish":true,"permalink":"/A Mesa/Povos/Elfos/Elfos da Alta Coorte/","dg-note-properties":{}}
 ---
 
-A **coorte de Gloria** se refere a um povo [[A Mesa/Povos/Elfos/Elfos\|élfico]] do reino de [[Gloria\|Gloria]]. São um povo muito tradicionalista de nobres e filósofos, o [[grande Imperador Élfico\|grande Imperador Élfico]] é proveniente da coorte de Gloria.
+A **coorte de Gloria** se refere a um povo [[A Mesa/Povos/Elfos/Elfos\|élfico]] do reino de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]]. São um povo muito tradicionalista de nobres e filósofos, o [[grande Imperador Élfico\|grande Imperador Élfico]] é proveniente da coorte de Gloria.
 
 # Religião:
 
 A maioria da Coorte segue o [[A Mesa/Religiões/Duodecalismo\|Duodecalismo]], identificando Bruma como uma divindade do panteão. Ainda assim, o maior número de [[A Mesa/Povos/Elfos/Elfos\|Elfos]] [[A Mesa/Religiões/Enoquismo\|enoquistas]] está concentrado neste povo.
 
-Templos, monumentos e praças dedicadas a Bruma e outras divindades são comuns na [[Gloria\|Gloria]] central, e muitos dos grandes eventos políticos do reino são acompanhados por cerimônias religiosas.
+Templos, monumentos e praças dedicadas a Bruma e outras divindades são comuns na [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]] central, e muitos dos grandes eventos políticos do reino são acompanhados por cerimônias religiosas.
 
 # Estrutura e Sociedade:
 
 A sociedade da Coorte de Gloria é organizada em torno de casas nobres, guildas comerciais e escolas filosóficas que disputam influência dentro do Império Élfico. Prestígio social está fortemente ligado à educação, à antiguidade familiar e aos serviços prestados ao reino.
 
-A autoridade máxima de [[Gloria\|Gloria]] é o [[Grande Imperador Élfico\|Grande Imperador Élfico]], tradicionalmente escolhido entre as grandes casas da Coorte. Embora o cargo costume ser transmitido de forma hereditária, existem mecanismos culturais, políticos, militares e financeiros capazes de remover um governante considerado incompetente, tirânico ou incapaz de preservar a estabilidade do império.
+A autoridade máxima de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]] é o [[Grande Imperador Élfico\|Grande Imperador Élfico]], tradicionalmente escolhido entre as grandes casas da Coorte. Embora o cargo costume ser transmitido de forma hereditária, existem mecanismos culturais, políticos, militares e financeiros capazes de remover um governante considerado incompetente, tirânico ou incapaz de preservar a estabilidade do império.
 
 Filósofos, magistrados, comerciantes influentes e membros da nobreza frequentemente participam das complexas disputas de poder que moldam a política de Gloria. Entre os elfos da Coorte, governar é considerado uma arte, e uma responsabilidade para com o legado de [[Bruma\|Bruma]].
 

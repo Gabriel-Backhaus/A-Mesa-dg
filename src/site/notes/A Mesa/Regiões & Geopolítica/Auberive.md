@@ -9,7 +9,7 @@ Auberive é a capital de [[Feudunort\|Feudunort]] e a sede da [[Casa Valcendre\|
 
 # História
 
-Auberive foi fundada em 57 T.E. pelo segundo rei de [[Feudunort\|Feudunort]], algumas décadas após a unificação das tribos e casas do norte sob a liderança de **Aldren Valcendre**, reconhecido como o primeiro Rei Pálido em 40 T.E. Erguida sobre uma montanha marcada simultaneamente pelo frio extremo e pela intensa atividade vulcânica, a fortaleza rapidamente tornou-se símbolo da unidade do reino e sede permanente da [[Casa Valcendre\|Casa Valcendre]]. Ao longo dos séculos, muralhas, bairros e fortalezas sucessivas foram construídos sobre suas encostas, transformando Auberive no principal centro político e militar do norte de [[Gloria\|Gloria]].
+Auberive foi fundada em 57 T.E. pelo segundo rei de [[Feudunort\|Feudunort]], algumas décadas após a unificação das tribos e casas do norte sob a liderança de **Aldren Valcendre**, reconhecido como o primeiro Rei Pálido em 40 T.E. Erguida sobre uma montanha marcada simultaneamente pelo frio extremo e pela intensa atividade vulcânica, a fortaleza rapidamente tornou-se símbolo da unidade do reino e sede permanente da [[Casa Valcendre\|Casa Valcendre]]. Ao longo dos séculos, muralhas, bairros e fortalezas sucessivas foram construídos sobre suas encostas, transformando Auberive no principal centro político e militar do norte de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]].
 
 # Arquitetura
 

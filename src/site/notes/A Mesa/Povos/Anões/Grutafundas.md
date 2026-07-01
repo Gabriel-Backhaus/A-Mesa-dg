@@ -17,7 +17,7 @@ Entre os grutafundas, deixar uma obra capaz de sobreviver aos séculos é consid
 
 Huntelgrunt é o principal centro minerador de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]]. Suas montanhas abrigam vastas reservas de ferro, carvão, prata, ouro e pedras preciosas, além de algumas das minas mais profundas já escavadas pelos anões.
 
-Os Grutafundas são responsáveis pela maior parte da extração mineral do reino, fornecendo matéria-prima para as forjas de [[Eisenfeuer\|Eisenfeuer]] e para os demais kreisens. Suas joias lapidadas também são altamente valorizadas dentro e fora de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], principalmente em [[Gloria\|Gloria]].
+Os Grutafundas são responsáveis pela maior parte da extração mineral do reino, fornecendo matéria-prima para as forjas de [[Eisenfeuer\|Eisenfeuer]] e para os demais kreisens. Suas joias lapidadas também são altamente valorizadas dentro e fora de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], principalmente em [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]].
 
 Além da mineração, Huntelgrunt possui tradição na construção civil e arquitetura. Muitas das fortalezas, pontes, muralhas e salões subterrâneos mais célebres do reino foram projetados por mestres grutafundas. A riqueza do kreis provém tanto dos recursos extraídos da montanha quanto da capacidade de transformá-los em obras destinadas a durar por gerações.
 
