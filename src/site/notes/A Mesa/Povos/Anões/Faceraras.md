@@ -8,7 +8,7 @@
 
 Os Faceraras compartilham da tradicional devoção anã ao Pai Criador, porém tendem a enfatizar seu papel como juiz dos homens e guardião dos juramentos. Mercadores e artesãos costumam realizar pequenas orações antes da assinatura de contratos e acordos comerciais. Quebrar uma promessa ou enganar deliberadamente um parceiro é visto não apenas como uma falta moral, mas como uma ofensa ao próprio Criador.
 
-Em [[Fendagan\|Fendagan]] a associação do Pai Criador com [[Eulir\|Eulir]] é ainda mais forte do que em [[Ana\|Ana]], e alguns faceraras até mesmo o identificam como [[Asfar\|Asfar]], o senhor criador de todo o ouro.
+Em [[Fendagan\|Fendagan]] a associação do Pai Criador com [[Eulir\|Eulir]] é ainda mais forte do que em [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], e alguns faceraras até mesmo o identificam como [[Asfar\|Asfar]], o senhor criador de todo o ouro.
 
 # Estrutura e Sociedade:
 
@@ -32,7 +32,7 @@ O ouro ocupa um papel especial na cultura facerara. Não apenas como símbolo de
 
 # Força Militar:
 
-Os exércitos faceraras são responsáveis pela proteção das maiores caravanas, minas, estradas comerciais dos distritos anões de [[Fendagan\|Fendagan]]. Diferentemente dos povos de [[Ana\|Ana]], que privilegiam grandes formações militares e fortalezas montanhosas, os faceraras valorizam eficiência, disciplina e resposta rápida a ameaças, ou mesmo possíveis ameaças.
+Os exércitos faceraras são responsáveis pela proteção das maiores caravanas, minas, estradas comerciais dos distritos anões de [[Fendagan\|Fendagan]]. Diferentemente dos povos de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], que privilegiam grandes formações militares e fortalezas montanhosas, os faceraras valorizam eficiência, disciplina e resposta rápida a ameaças, ou mesmo possíveis ameaças.
 
 Embora possuam menos soldados do que os grandes exércitos anões de [[Lartuath\|Lartuath]], sua posição estratégica e riqueza permitem manter forças profissionais bem equipadas e permanentemente mobilizadas, até mesmo patrocinando exércitos privados com mercenários de outros povos.
 ## Schwere Infanteri:

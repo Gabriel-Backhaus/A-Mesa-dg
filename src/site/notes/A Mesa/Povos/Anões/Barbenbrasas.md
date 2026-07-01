@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/A Mesa/Povos/Anões/Barbenbrasas/","dg-note-properties":{}}
 ---
 
-**Heizehaare**, ou barbenbrasas, são um povo [[A Mesa/Povos/Anões/Anões\|anão]] do keise de [[Eisenfeuer\|Eisenfeuer]], no reino de [[Ana\|Ana]]. São um povo de capitalistas e grandes produtores industriais, responsáveis pela maior parte das forjas de Ana.
+**Heizehaare**, ou barbenbrasas, são um povo [[A Mesa/Povos/Anões/Anões\|anão]] do keise de [[Eisenfeuer\|Eisenfeuer]], no reino de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]]. São um povo de capitalistas e grandes produtores industriais, responsáveis pela maior parte das forjas de Ana.
 
 # Religião:
 
@@ -11,13 +11,13 @@ Os Barbenbrasas compartilham da tradicional devoção anã ao Pai Criador, poré
 Templos e forjas frequentemente coexistem no mesmo complexo, e não é raro que sacerdotes também sejam artesãos experientes. Objetos de excepcional qualidade são vistos como demonstrações da disciplina e dedicação que o Criador espera de seu povo.
 # Estrutura e Sociedade:
 
-Assim como nos demais kreisens de [[Ana\|Ana]], a sociedade barbenbrasa é organizada em torno das casas familiares e da autoridade de seus patriarcas e matriarcas. Entretanto, em Eisenfeuer o prestígio de um indivíduo está fortemente ligado à sua habilidade profissional e poder financeiro, sendo o povo que mais se aproxima do capitalismo [[A Mesa/Povos/Humanos/Humanos\|humano]].
+Assim como nos demais kreisens de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], a sociedade barbenbrasa é organizada em torno das casas familiares e da autoridade de seus patriarcas e matriarcas. Entretanto, em Eisenfeuer o prestígio de um indivíduo está fortemente ligado à sua habilidade profissional e poder financeiro, sendo o povo que mais se aproxima do capitalismo [[A Mesa/Povos/Humanos/Humanos\|humano]].
 
 Grandes oficinas e indústrias frequentemente empregam dezenas ou até centenas de anões de uma mesma casa, tornando-se centros de influência econômica e política. Mestres artesãos e senhores burgueses são figuras altamente respeitadas, e não é incomum que suas opiniões tenham peso equivalente ou superior ao de nobres heráldicos.
 
 # Economia:
 
-Eisenfeuer é o principal centro metalúrgico de [[Ana\|Ana]]. Suas montanhas são ricas em ferro, carvão mineral, prata e outros metais valiosos, alimentando uma vasta rede de minas, fundições e forjas espalhadas pelo kreis.
+Eisenfeuer é o principal centro metalúrgico de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]]. Suas montanhas são ricas em ferro, carvão mineral, prata e outros metais valiosos, alimentando uma vasta rede de minas, fundições e forjas espalhadas pelo kreis.
 
 Grande parte das armas, armaduras, ferramentas e máquinas produzidas em Ana têm origem barbenbrasa. Seus produtos são exportados para todos os demais kreisens e também para reinos estrangeiros, sendo especialmente valorizados em [[A Mesa/Regiões & Geopolítica/Agronostrum\|Agronostrum]], [[Plagan\|Plagan]] e até mesmo em [[Gloria\|Gloria]].
 
@@ -27,7 +27,7 @@ Após a [[A Mesa/Eventos/Guerra Anã\|Guerra Anã]], a abertura das rotas comerc
 
 # Força Militar:
 
-Os exércitos de Eisenfeuer são famosos pela qualidade de seus equipamentos. Muitos dos melhores armeiros e engenheiros militares de [[Ana\|Ana]] são barbenbrasas, e não é incomum que armas, armaduras e máquinas de guerra produzidas em Eisenfeuer sejam utilizadas por todos os demais kreisens.
+Os exércitos de Eisenfeuer são famosos pela qualidade de seus equipamentos. Muitos dos melhores armeiros e engenheiros militares de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]] são barbenbrasas, e não é incomum que armas, armaduras e máquinas de guerra produzidas em Eisenfeuer sejam utilizadas por todos os demais kreisens.
 
 Durante conflitos, o kreis costuma fornecer contingentes de [[Schwere Infanteri\|Schwere Infanteri]] excepcionalmente bem equipados, além de engenheiros responsáveis pela construção de fortificações, pontes, barricadas e armas de cerco. A defesa de minas, fundições e rotas de transporte tornou seus comandantes especialistas em guerra de posição e logística militar.
 

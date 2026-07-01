@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/A Mesa/Eventos/Guerra Anã/","dg-note-properties":{}}
 ---
 
-A Guerra Anã foi um conflito ocorrido durante os primeiros séculos da [[A Mesa/Eventos/Terceira Era\|Terceira Era]], envolvendo principalmente os reinos de [[Ana\|Ana]] e [[Gloria\|Gloria]]. Seu estopim foi uma disputa comercial acerca do acesso ao [[Canal de Luneth\|Canal de Luneth]] e às rotas marítimas do [[Mare Magnum\|Mare Magnum]].
+A Guerra Anã foi um conflito ocorrido durante os primeiros séculos da [[A Mesa/Eventos/Terceira Era\|Terceira Era]], envolvendo principalmente os reinos de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]] e [[Gloria\|Gloria]]. Seu estopim foi uma disputa comercial acerca do acesso ao [[Canal de Luneth\|Canal de Luneth]] e às rotas marítimas do [[Mare Magnum\|Mare Magnum]].
 # Contexto da Guerra
 
-Durante séculos, os anões de [[Ana\|Ana]] dependeram de [[Gloria\|Gloria]] para acessar os mercados do restante do mundo. Grande parte das mercadorias anãs passava pela cidade de [[A Mesa/Regiões & Geopolítica/Elenvar\|Elenvar]], onde os elfos cobravam tarifas de passagem ou adquiriam produtos anões para revendê-los aos reinos de [[Plagan\|Plagan]] com lucro.
+Durante séculos, os anões de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]] dependeram de [[Gloria\|Gloria]] para acessar os mercados do restante do mundo. Grande parte das mercadorias anãs passava pela cidade de [[A Mesa/Regiões & Geopolítica/Elenvar\|Elenvar]], onde os elfos cobravam tarifas de passagem ou adquiriam produtos anões para revendê-los aos reinos de [[Plagan\|Plagan]] com lucro.
 
 Com o crescimento econômico de Ana, diversos governantes anões passaram a pressionar Gloria por condições comerciais mais vantajosas. As negociações fracassaram, levando o [[A Mesa/Povos/Anões/Anões#Gran-könig Suldar Hertz des Berges\|Gran-könig Suldar Hertz des Berges]] a ameaçar tomar o Canal de Luneth pela força.
 # O Conflito

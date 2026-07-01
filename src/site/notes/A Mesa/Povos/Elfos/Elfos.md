@@ -25,7 +25,7 @@ O reino de Gloria possui uma complicada estrutura de casas, linhagens e guildas 
 
 # Economia:
 
-Os elfos detém total controle da costa interna de Lartuath, e por muito tempo cobraram altas taxas de intermediação entre o Noroeste e o resto do mundo. Gloria tem uma forte influência internacional, mesmo após o tratado do fim da [[A Mesa/Eventos/Guerra Anã\|Guerra Anã]], que acabou com o privilégio élfico de comercializar o minério anão, eles ainda exportam tecidos e alimentos para [[Ana\|Ana]], e artefatos de "magia élfica" para Plagan, Agronostrum e Norden.
+Os elfos detém total controle da costa interna de Lartuath, e por muito tempo cobraram altas taxas de intermediação entre o Noroeste e o resto do mundo. Gloria tem uma forte influência internacional, mesmo após o tratado do fim da [[A Mesa/Eventos/Guerra Anã\|Guerra Anã]], que acabou com o privilégio élfico de comercializar o minério anão, eles ainda exportam tecidos e alimentos para [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], e artefatos de "magia élfica" para Plagan, Agronostrum e Norden.
 
 # Força Militar:
 

@@ -3,7 +3,7 @@
 ---
 
 > _"De um lado da montanha vi homens abrindo caminho através da neve até a cintura. Do outro, observei trabalhadores semidespidos, próximos a um rio de pedra incandescente."_  
-> — [[A Mesa/Personalidades/Professor Álvaro de Oliveira\|Professor Álvaro de Oliveira]], 448 T.E.
+> — [[A Mesa/Personalidades/Professor Álvaro de Oliveira\|Professor Álvaro de Oliveira]], 439 T.E.
 
 Auberive é a capital de [[Feudunort\|Feudunort]] e a sede da [[Casa Valcendre\|Casa Valcendre]], atualmente a mais poderosa entre as grandes casas dos [[A Mesa/Povos/Elfos/Elfos Pálidos\|Elfos Pálidos]].
 

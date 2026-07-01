@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/A Mesa/Povos/Anões/Alvabarbas/","dg-note-properties":{}}
 ---
 
-**Weizerbart**, ou alvabarbas, são um povo [[A Mesa/Povos/Anões/Anões\|anão]] dos altos picos de [[Hoherschnee\|Hoherschnee]], no norte de [[Ana\|Ana]]. São um povo de filósofos e diplomatas, o [[gran-könig\|gran-könig]] de Ana é proveniente de Hoherschnee, salvo raras exceções históricas.
+**Weizerbart**, ou alvabarbas, são um povo [[A Mesa/Povos/Anões/Anões\|anão]] dos altos picos de [[Hoherschnee\|Hoherschnee]], no norte de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]]. São um povo de filósofos e diplomatas, o [[gran-könig\|gran-könig]] de Ana é proveniente de Hoherschnee, salvo raras exceções históricas.
 
 # Religião:
 

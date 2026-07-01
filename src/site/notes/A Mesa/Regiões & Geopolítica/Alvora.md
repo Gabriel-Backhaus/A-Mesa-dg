@@ -4,7 +4,7 @@
 
 > _"Esperance ensinou os nostrianos a sobreviver. Alvora ensinou-os a governar."_
 > 
-> — [[A Mesa/Personalidades/Professor Álvaro de Oliveira\|Professor Álvaro de Oliveira]], 459 T.E.
+> — [[A Mesa/Personalidades/Professor Álvaro de Oliveira\|Professor Álvaro de Oliveira]], 435 T.E.
 
 # História
 
@@ -22,7 +22,7 @@ Os habitantes de Alvora costumam ser organizados, disciplinados e excessivamente
 
 Ao contrário dos mercadores de Esperance ou dos agricultores do interior, os alvoranos tendem a enxergar Agronostrum através de suas instituições. Muitos acreditam que estradas, tribunais e administrações eficientes são tão importantes para a prosperidade do reino quanto exércitos ou colheitas abundantes.
 
-A presença constante de representantes de todas as províncias faz de Alvora uma cidade cosmopolita. Diferentes sotaques do nostriano podem ser ouvidos em praticamente todos os bairros, assim como visitantes vindos de [[Gloria\|Gloria]], [[Ana\|Ana]], [[Plagan\|Plagan]] e [[Norden\|Norden]].
+A presença constante de representantes de todas as províncias faz de Alvora uma cidade cosmopolita. Diferentes sotaques do nostriano podem ser ouvidos em praticamente todos os bairros, assim como visitantes vindos de [[Gloria\|Gloria]], [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], [[Plagan\|Plagan]] e [[Norden\|Norden]].
 
 # Arquitetura
 

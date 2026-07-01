@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/A Mesa/Povos/Anões/Troncofortes/","dg-note-properties":{}}
 ---
 
-**Eisenkoffer**, ou troncofortes, são um povo [[A Mesa/Povos/Anões/Anões\|anão]] das montanhas rochosas de [[Eisenhol\|Eisenhol]], no sul de [[Ana\|Ana]]. São um povo de fazendeiros, caçadores e lenhadores, boa parte da comida e da madeira de Ana são produzidas em Eisenhol.
+**Eisenkoffer**, ou troncofortes, são um povo [[A Mesa/Povos/Anões/Anões\|anão]] das montanhas rochosas de [[Eisenhol\|Eisenhol]], no sul de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]]. São um povo de fazendeiros, caçadores e lenhadores, boa parte da comida e da madeira de Ana são produzidas em Eisenhol.
 
 # Religião:
 
@@ -14,11 +14,11 @@ Pequenos santuários são frequentemente encontrados próximos a fazendas, moinh
 
 Em [[Eisenhol\|Eisenhol]], o prestígio de uma casa está fortemente ligado à extensão de suas terras, à prosperidade de seus rebanhos e à capacidade de sustentar sua comunidade. Fazendeiros, caçadores, lenhadores e criadores de gado ocupam posições de grande respeito dentro da sociedade troncoforte.
 
-Os troncofortes tendem a viver em assentamentos mais dispersos do que os demais povos de [[Ana\|Ana]], distribuídos entre vales férteis, florestas e encostas montanhosas. A hospitalidade é considerada uma virtude importante, e a capacidade de prover abrigo para parentes, viajantes e aliados é frequentemente vista como uma demonstração tanto de honra quanto de prosperidade.
+Os troncofortes tendem a viver em assentamentos mais dispersos do que os demais povos de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], distribuídos entre vales férteis, florestas e encostas montanhosas. A hospitalidade é considerada uma virtude importante, e a capacidade de prover abrigo para parentes, viajantes e aliados é frequentemente vista como uma demonstração tanto de honra quanto de prosperidade.
 
 # Economia:
 
-[[Eisenhol\|Eisenhol]] é o principal produtor de alimentos e madeira de [[Ana\|Ana]]. Seus vales férteis e montanhas arborizadas sustentam o cultivo, a criação de animais e a exploração florestal, abastecendo os demais kreisens com recursos essenciais.
+[[Eisenhol\|Eisenhol]] é o principal produtor de alimentos e madeira de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]]. Seus vales férteis e montanhas arborizadas sustentam o cultivo, a criação de animais e a exploração florestal, abastecendo os demais kreisens com recursos essenciais.
 
 Os Troncofortes são conhecidos pela criação de [[A Mesa/Plantas & Animais/Donerrinder\|Donnerrindes]], enormes animais de carga e corte cuja carne, leite, couro e lã são consumidos em todo o reino. Além disso, a produção de cereais, queijos, conservas e bebidas fermentadas constitui uma parcela significativa da economia local.
 
@@ -28,11 +28,11 @@ A abundância de florestas também tornou [[Eisenhol\|Eisenhol]] o principal for
 
 Os exércitos de Eisenhol são especializados na proteção de estradas, fazendas, rebanhos e assentamentos dispersos. Acostumados a patrulhar grandes extensões de território, os comandantes troncofortes valorizam mobilidade, acesso à informação e logística.
 ## Schwere Infanteri:
-A infantaria pesada troncoforte é a mais "leve" dentre os padrões anões, é comum que os guerreiros usem armaduras de couro ou escamas de aço como as de [[Norden\|Norden]]. Uma das mais numerosas forças militares de [[Ana\|Ana]].
+A infantaria pesada troncoforte é a mais "leve" dentre os padrões anões, é comum que os guerreiros usem armaduras de couro ou escamas de aço como as de [[Norden\|Norden]]. Uma das mais numerosas forças militares de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]].
 ## Heimlichkeites:
 Os heimlichkeites de Eisenhol são naturalmente cultivados entre caçadores, lenhadores e batedores. Especialistas em rastreamento e sobrevivência, são capazes de seguir inimigos através de florestas e montanhas por dias, além de realizar emboscadas com grande discrição e eficiência.
 ## Schnell:
-Os schnells troncofortes são considerados os melhores de [[Ana\|Ana]]. Utilizados para patrulhamento, reconhecimento e resposta rápida, percorrem constantemente as estradas e vales de Eisenhol. Alguns schnell usam [[A Mesa/Plantas & Animais/Donerrinder\|Donnerrindes]] treinados para a guerra, mas seu efeito é mais psicológico do que destrutivo. De fato: muitos inimigos simplesmente batem em retirada ao ver uma imensa máquina de guerra com chifres.
+Os schnells troncofortes são considerados os melhores de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]]. Utilizados para patrulhamento, reconhecimento e resposta rápida, percorrem constantemente as estradas e vales de Eisenhol. Alguns schnell usam [[A Mesa/Plantas & Animais/Donerrinder\|Donnerrindes]] treinados para a guerra, mas seu efeito é mais psicológico do que destrutivo. De fato: muitos inimigos simplesmente batem em retirada ao ver uma imensa máquina de guerra com chifres.
 ## Bewachen:
 Os bewachen de Eisenhol são responsáveis pela defesa de pontes, passagens e estoques de suprimentos. Embora menos especializados em muralhas permanentes do que seus equivalentes de [[Huntelgrunt\|Huntelgrunt]], destacam-se pela capacidade de se adaptar a qualquer terreno e de organizar rapidamente posições defensivas.
 

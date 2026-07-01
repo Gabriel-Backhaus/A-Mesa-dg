@@ -11,4 +11,4 @@ Vivem em grandes casas com 10 a 100 membros da mesma família, normalmente as ca
 # Economia:
 As regiões mais ermas e selvagens de Plagan funcionam em um regime feudal agricultor, onde as pessoas necessitam retirar víveres do solo e quem possui terras as dispõe para cultivação por outras pessoas. O escambo é muito comum e a economia é básica e essencial.
 Em regiões mais centrais e urbanas, muitas outras formas de geração de riquezas são possíveis, e as moedas de cobre, prata e ouro são extremamente importantes.
-A economia plaganense é predominantemente interna, entre seus próprios reinos, há também relação comercial com [[Gloria\|Gloria]] e [[Ana\|Ana]], de onde importam as avançadas tecnologias e magias do norte e exportam materiais como produtos alquímicos e minérios que somente se encontram em Plagan. 
+A economia plaganense é predominantemente interna, entre seus próprios reinos, há também relação comercial com [[Gloria\|Gloria]] e [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], de onde importam as avançadas tecnologias e magias do norte e exportam materiais como produtos alquímicos e minérios que somente se encontram em Plagan. 

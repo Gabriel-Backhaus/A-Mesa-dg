@@ -33,7 +33,7 @@ Junto da costa, Voilemer constitui o coração comercial da cidade. Seus cais re
 ### O Porto
 O porto de Souverainne se tornou o segundo mais importante de Gloria, depois do Porto de [[A Mesa/Regiões & Geopolítica/Elenvar\|Elenvar]].
 
-Navios provenientes de [[Plagan\|Plagan]], [[Ana\|Ana]], [[A Mesa/Regiões & Geopolítica/Agronostrum\|Agronostrum]] e de inúmeras cidades menores atracam diariamente em seus cais. É comum que um visitante encontre marinheiros de meia dúzia de povos diferentes caminhando pela mesma rua.
+Navios provenientes de [[Plagan\|Plagan]], [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], [[A Mesa/Regiões & Geopolítica/Agronostrum\|Agronostrum]] e de inúmeras cidades menores atracam diariamente em seus cais. É comum que um visitante encontre marinheiros de meia dúzia de povos diferentes caminhando pela mesma rua.
 
 ## Armé
 Abriga os quartéis, arsenais, estaleiros militares e demais estruturas responsáveis pela defesa da cidade.

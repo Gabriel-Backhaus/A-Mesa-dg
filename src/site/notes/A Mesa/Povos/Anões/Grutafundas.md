@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/A Mesa/Povos/Anões/Grutafundas/","dg-note-properties":{}}
 ---
 
-**Dunklehohle**, ou grutafundas, são um povo [[A Mesa/Povos/Anões/Anões\|anão]] do kreise de [[Huntelgrunt\|Huntelgrunt]], no reino de [[Ana\|Ana]]. São um povo de mineiros e escavadores, os maiores castelos e fortes anões estão situados em Huntelgrunt.
+**Dunklehohle**, ou grutafundas, são um povo [[A Mesa/Povos/Anões/Anões\|anão]] do kreise de [[Huntelgrunt\|Huntelgrunt]], no reino de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]]. São um povo de mineiros e escavadores, os maiores castelos e fortes anões estão situados em Huntelgrunt.
 
 # Religião:
 
@@ -15,9 +15,9 @@ Em Huntelgrunt o prestígio de uma casa está fortemente ligado à antiguidade d
 Entre os grutafundas, deixar uma obra capaz de sobreviver aos séculos é considerado uma das maiores honras que um anão pode alcançar.
 # Economia:
 
-Huntelgrunt é o principal centro minerador de [[Ana\|Ana]]. Suas montanhas abrigam vastas reservas de ferro, carvão, prata, ouro e pedras preciosas, além de algumas das minas mais profundas já escavadas pelos anões.
+Huntelgrunt é o principal centro minerador de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]]. Suas montanhas abrigam vastas reservas de ferro, carvão, prata, ouro e pedras preciosas, além de algumas das minas mais profundas já escavadas pelos anões.
 
-Os Grutafundas são responsáveis pela maior parte da extração mineral do reino, fornecendo matéria-prima para as forjas de [[Eisenfeuer\|Eisenfeuer]] e para os demais kreisens. Suas joias lapidadas também são altamente valorizadas dentro e fora de [[Ana\|Ana]], principalmente em [[Gloria\|Gloria]].
+Os Grutafundas são responsáveis pela maior parte da extração mineral do reino, fornecendo matéria-prima para as forjas de [[Eisenfeuer\|Eisenfeuer]] e para os demais kreisens. Suas joias lapidadas também são altamente valorizadas dentro e fora de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], principalmente em [[Gloria\|Gloria]].
 
 Além da mineração, Huntelgrunt possui tradição na construção civil e arquitetura. Muitas das fortalezas, pontes, muralhas e salões subterrâneos mais célebres do reino foram projetados por mestres grutafundas. A riqueza do kreis provém tanto dos recursos extraídos da montanha quanto da capacidade de transformá-los em obras destinadas a durar por gerações.
 
@@ -25,7 +25,7 @@ Além da mineração, Huntelgrunt possui tradição na construção civil e arqu
 
 Durante conflitos, o kreis costuma fornecer contingentes de [[Schwere Infanteri\|Schwere Infanteri]] treinados para combater em espaços confinados, além de numerosos [[Bewachen\|Bewachen]] responsáveis pela proteção de muralhas, portões e fortificações. A familiaridade com túneis e galerias subterrâneas também torna os grutafundas especialistas em emboscadas, escavações militares e guerra de cerco.
 ## Schwere Infanteri:
-A infantaria pesada grutafunda é considerada uma das mais resistentes de toda [[Ana\|Ana]]. Treinados para lutar em túneis estreitos e salões subterrâneos, seus guerreiros utilizam grandes escudos, martelos e machados capazes de romper armaduras e manter formações imóveis sob intensa pressão, praticamente se tornando parte da rocha.
+A infantaria pesada grutafunda é considerada uma das mais resistentes de toda [[A Mesa/Regiões & Geopolítica/Ana\|Ana]]. Treinados para lutar em túneis estreitos e salões subterrâneos, seus guerreiros utilizam grandes escudos, martelos e machados capazes de romper armaduras e manter formações imóveis sob intensa pressão, praticamente se tornando parte da rocha.
 ## Heimlichkeites:
 Os heimlichkeites de Huntelgrunt também são conhecidos como "maulwürfe" ou "toupeiras". Destacam-se em reconhecimento, infiltração e combate subterrâneo, sendo capazes de percorrer longas distâncias através de túneis e galerias sem serem detectados, então emergir do solo atrás de seus inimigos desprevenidos.
 ## Schnell:
@@ -37,7 +37,7 @@ Os bewachen de Huntelgrunt são responsáveis pela defesa das fortalezas, muralh
 
 A culinária grutafunda é conhecida por equilibrar ingredientes das montanhas com produtos dos vales. Carnes assadas, queijos maturados, pães rústicos e vegetais de clima frio estão presentes na maior parte das refeições.
 
-Os grutafundas apreciam alimentos duráveis e fáceis de transportar durante longas jornadas de mineração, exploração ou construção. A produção de queijos e embutidos é especialmente respeitada, e muitos de seus métodos de maturação são considerados os melhores de [[Ana\|Ana]].
+Os grutafundas apreciam alimentos duráveis e fáceis de transportar durante longas jornadas de mineração, exploração ou construção. A produção de queijos e embutidos é especialmente respeitada, e muitos de seus métodos de maturação são considerados os melhores de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]].
 ## Steinbraten
 Grande corte de carne de ovelha assado sobre pedras quentes. Tradicionalmente servido durante celebrações comunitárias e inaugurações de novas obras.
 ## Bergkäsepfanne
