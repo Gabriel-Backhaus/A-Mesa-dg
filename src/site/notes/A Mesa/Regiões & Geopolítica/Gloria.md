@@ -8,7 +8,7 @@
 
 # História
 
-Glória é uma das nações mais antigas de [[Lartuath\|Lartuath]]. Sua história remonta à [[A Mesa/Eventos/Primeira Era\|Primeira Era]], quando os elfos estabeleceram vastos domínios, e ergueram cidades cuja beleza e sofisticação permaneceram como referência para inúmeras gerações.
+Glória é uma das nações mais antigas de [[Lartuath\|Lartuath]]. Sua história remonta à [[A Mesa/Eventos/Primeira Era\|Primeira Era]], quando os [[A Mesa/Povos/Elfos/Elfos\|elfos]] estabeleceram vastos domínios, e ergueram cidades cuja beleza e sofisticação permaneceram como referência para inúmeras gerações.
 
 A [[A Mesa/Eventos/Segunda Era\|Segunda Era]], no entanto, trouxe a ruía do antigo império. Reinos desapareceram, cidades foram abandonadas e praticamente todo o conhecimento acumulado acabou perdido. Ainda assim, ao contrário de muitos povos, os elfos preservaram parte significativa de sua tradição, transmitida de geração para geração através dos séculos do período das trevas.
 
