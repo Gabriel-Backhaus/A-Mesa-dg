@@ -89,4 +89,4 @@ Estrangeiros costumam ser recebidos com educação e cordialidade, especialmente
 
  - [[A Mesa/Regiões & Geopolítica/Auriel\|Auriel]], a primeira cidade do império élfico, e a atual capital.
  - [[A Mesa/Regiões & Geopolítica/Souverainne\|Souverainne]], pequena cidade que recentemente teve um crescimento explosivo, tornando-se o segundo principal polo econômico de Glória.
- - [[Feudunort\|Feudunort]], reino das florestas gélidas e sede do Rei Pálido.
+ - [[A Mesa/Regiões & Geopolítica/Auberive\|Auberive]], capital do reino de [[Feudunort\|Feudunort]].
