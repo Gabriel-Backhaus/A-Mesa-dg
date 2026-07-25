@@ -28,13 +28,13 @@ A vida nas regiões geladas do norte também fortaleceu os laços comunitários.
 
 # Economia:
 
-A economia de [[Feudunort\|Feudunort]] é baseada na exploração dos recursos do norte de [[Lartuath\|Lartuath]], no comércio marítimo e na posição estratégica da região entre [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]], [[Norden\|Norden]], [[Hoherschnee\|Hoherschnee]] e as [[Regiões Bárbaras\|Regiões Bárbaras]].
+A economia de [[Feudunort\|Feudunort]] é baseada na exploração dos recursos do norte de [[Lartuath\|Lartuath]], no comércio marítimo e na posição estratégica da região entre [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]], [[A Mesa/Regiões & Geopolítica/Norden\|Norden]], [[Hoherschnee\|Hoherschnee]] e as [[Regiões Bárbaras\|Regiões Bárbaras]].
 
 As florestas geladas do norte fornecem madeira, peles, resinas, ervas raras e diversos produtos altamente valorizados nos mercados élficos. A caça também desempenha papel importante na economia local, especialmente a obtenção de couro, lã e outros materiais utilizados na confecção de roupas destinadas aos climas mais rigorosos do continente.
 
 A atividade vulcânica presente em algumas regiões de Feudunort permite a extração de minerais raros e o aproveitamento de fontes termais, que sustentam assentamentos mesmo durante os invernos mais severos. Diversas oficinas élficas utilizam fornos geotérmicos naturais para trabalhar metais, vidro e cerâmica.
 
-A proximidade com [[Norden\|Norden]] e [[Hoherschnee\|Hoherschnee]] transformou os Elfos Pálidos em importantes intermediários comerciais entre Gloria e os povos do norte. Mercadores de Feudunort frequentemente negociam madeira, produtos manufaturados e artefatos élficos em troca de metais, peles, marfim, óleo de baleia e outros recursos provenientes das terras setentrionais.
+A proximidade com [[A Mesa/Regiões & Geopolítica/Norden\|Norden]] e [[Hoherschnee\|Hoherschnee]] transformou os Elfos Pálidos em importantes intermediários comerciais entre Gloria e os povos do norte. Mercadores de Feudunort frequentemente negociam madeira, produtos manufaturados e artefatos élficos em troca de metais, peles, marfim, óleo de baleia e outros recursos provenientes das terras setentrionais.
 
 As relações com as [[Regiões Bárbaras\|Regiões Bárbaras]] são mais complexas. Embora conflitos ocasionais ocorram nas fronteiras, o comércio nunca deixou de existir completamente. Algumas famílias nobres mantêm séculos de relações diplomáticas e comerciais com tribos específicas, garantindo acesso a rotas e recursos que seriam inacessíveis para mercadores estrangeiros.
 

@@ -104,7 +104,7 @@ Com [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]], compartilha séculos de c
 
 Com [[A Mesa/Regiões & Geopolítica/Agronostrum\|Agronostrum]], Ana mantém atualmente sua mais estreita parceria internacional. Os nostrianos fornecem alimentos, enquanto os anões exportam ferramentas, armas e produtos manufaturados. A cooperação durante a Guerra fortaleceu ainda mais os laços entre ambos os reinos.
 
-As relações com [[Norden\|Norden]] remontam aos primeiros séculos da Terceira Era. Muito antes de estabelecerem contato regular com os [[A Mesa/Povos/Elfos/Elfos\|elfos]], os povos [[A Mesa/Povos/Humanos/Nórdicos\|nórdicos]] já comerciavam e conviviam com os anões das montanhas, influência que permanece perceptível até hoje em diversos aspectos linguísticos, culturais e econômicos.
+As relações com [[A Mesa/Regiões & Geopolítica/Norden\|Norden]] remontam aos primeiros séculos da Terceira Era. Muito antes de estabelecerem contato regular com os [[A Mesa/Povos/Elfos/Elfos\|elfos]], os povos [[A Mesa/Povos/Humanos/Nórdicos\|nórdicos]] já comerciavam e conviviam com os anões das montanhas, influência que permanece perceptível até hoje em diversos aspectos linguísticos, culturais e econômicos.
 
 Com os reinos de [[Plagan\|Plagan]], Ana mantém relações predominantemente comerciais, exportando produtos manufaturados e importando tecidos, vinhos e especiarias do sul.
 

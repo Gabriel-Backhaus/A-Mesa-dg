@@ -36,7 +36,7 @@ A maior parte do território é formada por campos férteis, colinas suaves e va
 
 Ao oeste, as montanhas que marcam a fronteira com [[A Mesa/Regiões & Geopolítica/Ana\|Ana]] formam uma barreira natural que separa as planícies nostrianas dos vales anões. Ao sul, cadeias montanhosas e florestas delimitam a transição para os antigos reinos de [[Plagan\|Plagan]], terras de onde partiram os primeiros colonos que fundariam Agronostrum.
 
-As fronteiras setentrionais aproximam-se das grandes florestas de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]] e das rotas que conduzem a [[Norden\|Norden]], tornando o reino um importante ponto de encontro entre humanos, elfos, anões e povos do norte.
+As fronteiras setentrionais aproximam-se das grandes florestas de [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]] e das rotas que conduzem a [[A Mesa/Regiões & Geopolítica/Norden\|Norden]], tornando o reino um importante ponto de encontro entre humanos, elfos, anões e povos do norte.
 
 Embora possua acesso ao [[Mare Magnum\|Mare Magnum]], Agronostrum não alcança os grandes oceanos que cercam o continente. Ainda assim, os portos e rios do mar interior desempenham papel fundamental em sua economia, permitindo o transporte de cereais, cavalos, lã e outros produtos para diversas regiões de Lartuath.
 
@@ -83,7 +83,7 @@ Com [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]], as relações permanecem 
 
 As relações com [[Plagan\|Plagan]] são marcadas por uma mistura de proximidade cultural e rivalidade histórica. Os nostrianos reconhecem suas origens plaganenses, mas também valorizam profundamente a identidade construída após séculos de independência. A participação de Agronostrum na guerra contra os reinos do sul contribuiu para reforçar esse sentimento nacional, sendo frequentemente lembrada como um dos momentos em que o reino afirmou definitivamente sua autonomia perante seus antigos parentes.
 
-Já com [[Norden\|Norden]], as relações costumam ser cordiais. Mercadores, exploradores e navegadores dos dois povos mantêm contato constante através das rotas do norte, favorecendo o comércio e a troca de conhecimentos. Embora diferenças culturais e interesses regionais ocasionalmente gerem atritos, os dois reinos geralmente mantêm uma convivência respeitosa e pragmática.
+Já com [[A Mesa/Regiões & Geopolítica/Norden\|Norden]], as relações costumam ser cordiais. Mercadores, exploradores e navegadores dos dois povos mantêm contato constante através das rotas do norte, favorecendo o comércio e a troca de conhecimentos. Embora diferenças culturais e interesses regionais ocasionalmente gerem atritos, os dois reinos geralmente mantêm uma convivência respeitosa e pragmática.
 
 Entre os nostrianos, é comum a crença de que a prosperidade de Agronostrum depende menos da conquista de novos territórios e mais da preservação de boas relações com seus vizinhos. Por essa razão, diplomatas e comerciantes frequentemente ocupam posição de destaque ao lado de soldados e governantes na vida política do reino.
 

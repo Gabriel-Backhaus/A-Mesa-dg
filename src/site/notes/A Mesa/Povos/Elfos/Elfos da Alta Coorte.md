@@ -22,7 +22,7 @@ Filósofos, magistrados, comerciantes influentes e membros da nobreza frequentem
 
 Embora a [[A Mesa/Eventos/Guerra Anã\|Guerra Anã]] tenha encerrado o monopólio élfico sobre o comércio com os reinos de [[Plagan\|Plagan]], as cidades da Coorte continuam entre os mais importantes centros econômicos de [[Lartuath\|Lartuath]]. Seus portos recebem mercadorias vindas de praticamente todos os povos conhecidos.
 
-Os artesãos da Coorte são especialmente reconhecidos pela produção de tecidos finos, obras de arte, instrumentos musicais e artefatos considerados mágicos por outros povos. Tais produtos alcançam preços elevados em [[A Mesa/Regiões & Geopolítica/Agronostrum\|Agronostrum]], [[Norden\|Norden]], [[Plagan\|Plagan]] e até mesmo em [[Aljanub\|Aljanub]].
+Os artesãos da Coorte são especialmente reconhecidos pela produção de tecidos finos, obras de arte, instrumentos musicais e artefatos considerados mágicos por outros povos. Tais produtos alcançam preços elevados em [[A Mesa/Regiões & Geopolítica/Agronostrum\|Agronostrum]], [[A Mesa/Regiões & Geopolítica/Norden\|Norden]], [[Plagan\|Plagan]] e até mesmo em [[Aljanub\|Aljanub]].
 
 # Força Militar:
 

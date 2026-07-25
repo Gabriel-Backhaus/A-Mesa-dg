@@ -28,7 +28,7 @@ A abundância de florestas também tornou [[Eisenhol\|Eisenhol]] o principal for
 
 Os exércitos de Eisenhol são especializados na proteção de estradas, fazendas, rebanhos e assentamentos dispersos. Acostumados a patrulhar grandes extensões de território, os comandantes troncofortes valorizam mobilidade, acesso à informação e logística.
 ## Schwere Infanteri:
-A infantaria pesada troncoforte é a mais "leve" dentre os padrões anões, é comum que os guerreiros usem armaduras de couro ou escamas de aço como as de [[Norden\|Norden]]. Uma das mais numerosas forças militares de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]].
+A infantaria pesada troncoforte é a mais "leve" dentre os padrões anões, é comum que os guerreiros usem armaduras de couro ou escamas de aço como as de [[A Mesa/Regiões & Geopolítica/Norden\|Norden]]. Uma das mais numerosas forças militares de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]].
 ## Heimlichkeites:
 Os heimlichkeites de Eisenhol são naturalmente cultivados entre caçadores, lenhadores e batedores. Especialistas em rastreamento e sobrevivência, são capazes de seguir inimigos através de florestas e montanhas por dias, além de realizar emboscadas com grande discrição e eficiência.
 ## Schnell:

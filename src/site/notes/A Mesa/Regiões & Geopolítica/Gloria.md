@@ -36,7 +36,7 @@ Ao norte localiza-se [[Feudunort\|Feudunort]], onde caracteriza-se o clima glaci
 
 As regiões centrais apresentam clima mais ameno, extensas regiões densamente arborizadas ocupam a maior parte do território imperial.
 
-Sua posição geográfica favorece tanto o comércio terrestre quanto marítimo, dominando importantes rotas comerciais com [[Norden\|Norden]], [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], [[A Mesa/Regiões & Geopolítica/Agronostrum\|Agronostrum]] e com os reinos de [[Plagan\|Plagan]].
+Sua posição geográfica favorece tanto o comércio terrestre quanto marítimo, dominando importantes rotas comerciais com [[A Mesa/Regiões & Geopolítica/Norden\|Norden]], [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], [[A Mesa/Regiões & Geopolítica/Agronostrum\|Agronostrum]] e com os reinos de [[Plagan\|Plagan]].
 
 # Economia
 
@@ -69,7 +69,7 @@ Com [[A Mesa/Regiões & Geopolítica/Ana\|Ana]], mantém uma relação marcada p
 
 Com [[A Mesa/Regiões & Geopolítica/Agronostrum\|Agronostrum]], compartilha antigas alianças, intercâmbio comercial e forte influência cultural, ainda que interesses políticos nem sempre coincidam.
 
-[[Norden\|Norden]] ocupa posição estratégica entre Glória e Ana. Apesar da proximidade cultural entre nórdicos e anões, os elfos mantêm contato constante com os povos do norte desde o primeiro século da Terceira Era, compartilhando rotas comerciais, acordos diplomáticos e frequentes intercâmbios culturais.
+[[A Mesa/Regiões & Geopolítica/Norden\|Norden]] ocupa posição estratégica entre Glória e Ana. Apesar da proximidade cultural entre nórdicos e anões, os elfos mantêm contato constante com os povos do norte desde o primeiro século da Terceira Era, compartilhando rotas comerciais, acordos diplomáticos e frequentes intercâmbios culturais.
 
 Os reinos de [[Plagan\|Plagan]] constituem importantes parceiros comerciais, principalmente na aquisição de produtos manufaturados, medicamentos e artigos de luxo.
 
