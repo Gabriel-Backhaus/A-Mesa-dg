@@ -9,7 +9,7 @@ Os humanos possuem corpos extremamente resistentes, parecem serem feitos para su
 # Povos Humanos:
 Os humanos podem ser divididos em uma infinidade de povos diferentes, mas todos podem ser abrangidos por quatro grandes povos principais:
 O [[A Mesa/Povos/Humanos/Povo Ancestral\|Povo Ancestral]] ainda cobre grande parte de Aljanub.
-Os [[A Mesa/Povos/Humanos/Nórdicos\|Nórdicos]], principal etnia humana em Lartuath, e nas Regiões Bárbaras do Norte.
+Os [[A Mesa/Povos/Humanos/Nórdicos\|Nórdicos]], principal etnia humana em Lartuath, e nas [[A Mesa/Regiões & Geopolítica/Regiões Bárbaras\|Regiões Bárbaras]] do Norte.
 Os [[A Mesa/Povos/Humanos/Plaganenses\|Plaganenses]], nomeados por viverem na região de Plagan.
 Os [[A Mesa/Povos/Humanos/Orientais\|Orientais]], os humanos de Toir.
 

@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/A Mesa/Regiões & Geopolítica/Elenvar/","dg-note-properties":{}}
 ---
 
-> _"Voltei a Elenvar após trinta e sete anos. As árvores cresceram, os jovens que conheci tornaram-se pais, alguns mestres já não estavam entre os vivos e as ruas permaneciam exatamente onde sempre estiveram. Pela primeira vez compreendi que permanência e mudança podem habitar o mesmo lugar."_  
+> _"Voltei a Elenvar após trinta e sete anos. As árvores cresceram, os jovens que conheci tornaram-se pais, alguns mestres já não estavam entre os vivos e as ruas permaneciam exatamente onde sempre estiveram. Pela primeira vez compreendi que permanência e mudança podem habitar o mesmo lugar."_ 
+>  
 — [[A Mesa/Personalidades/Professor Álvaro de Oliveira\|Professor Álvaro de Oliveira]], 456 T.E.
 
 # Introdução

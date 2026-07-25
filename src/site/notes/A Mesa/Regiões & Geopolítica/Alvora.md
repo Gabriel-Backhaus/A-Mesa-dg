@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/A Mesa/Regiões & Geopolítica/Alvora/","dg-note-properties":{}}
 ---
 
-> _"Esperance ensinou os nostrianos a sobreviver. Alvora ensinou-os a governar."_
+> _"Alvora é, definitivamente, uma cidade burocrática."_
 > 
 > — [[A Mesa/Personalidades/Professor Álvaro de Oliveira\|Professor Álvaro de Oliveira]], 435 T.E.
 

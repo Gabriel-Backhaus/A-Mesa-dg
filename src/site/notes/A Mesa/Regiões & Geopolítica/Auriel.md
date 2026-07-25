@@ -3,6 +3,7 @@
 ---
 
 > _"Nenhuma outra cidade me pareceu tão silenciosa. Até mesmo o vento parecia escolher com cuidado o que dizer."_  
+> 
 > — [[A Mesa/Personalidades/Professor Álvaro de Oliveira\|Professor Álvaro de Oliveira]], 423 T.E.
 
 # História

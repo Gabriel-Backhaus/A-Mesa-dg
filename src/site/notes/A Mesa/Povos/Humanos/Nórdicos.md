@@ -9,7 +9,7 @@ A maioria dos homens nórdicos vivem em pequenas vilas agricultoras e pastoris, 
 Não é incomum, principalmente nas regiões mais para dentro do continente e mais ao sul, que formem-se grandes cidades onde 50 até 1.000 famílias vivem sob a liderança do guerreiro mais forte, chamado herr (palavra que se traduz como "rei" para o idioma [[A Mesa/Povos/Humanos/Plaganenses\|plaganês]]), que também controla o exército e possui o poder e o dever de defender a cidade. Este posto então, é passado para o mais velho filho homem[^2].
 # Economia:
 Nas regiões continentais de Lartuath e nas proximidades de Norden, que são mais próximas de [[A Mesa/Regiões & Geopolítica/Ana\|Ana]] e [[A Mesa/Regiões & Geopolítica/Gloria\|Gloria]], os nórdicos são capazes de praticar a agricultura e pecuária, e trocar com os não humanos em troca de artefatos de mais avançada tecnologia ou magia.
-Nas [[Regiões Bárbaras do Norte\|Regiões Bárbaras do Norte]] a atividade principal é a caça e a pesca de subsistência. Muitos saqueadores e piratas partem destas regiões buscando trazer riquezas estrangeiras para suas terras, motivo do nome dado à região.
+Nas [[A Mesa/Regiões & Geopolítica/Regiões Bárbaras\|Regiões Bárbaras]] a atividade principal é a caça e a pesca de subsistência. Muitos saqueadores e piratas partem destas regiões buscando trazer riquezas estrangeiras para suas terras, motivo do nome dado à região.
 # Força Militar:
 Norden é uma potência militar altamente respeitada, tanto por [[A Mesa/Povos/Anões/Anões\|anões]] e [[A Mesa/Povos/Elfos/Elfos\|elfos]] quanto pelos [[A Mesa/Povos/Humanos/Plaganenses\|Plaganenses]] que vieram depois. Seus exércitos são divididos em basicamente três tipos de soldados, praticamente distintos entre si por sua posição social:
 ## Bondar:
@@ -19,7 +19,7 @@ Burgueses e nobres menores com acesso a equipamento próprio para a guerra, norm
 ## Ridjar:
 Nobres altos, usam armaduras como as dos hirdars ou armaduras de placas feitas em [[A Mesa/Regiões & Geopolítica/Ana\|Ana]] ou [[A Mesa/Regiões & Geopolítica/Agronostrum\|Agronostrum]], lutam montados sobre cavalos com espadas longas.
 ## Bárbaros:
-Já nas [[Regiões Bárbaras do Norte\|regiões bárbaras]], cada ser humano individual precisa ser capaz de lutar diariamente contra bestas e criaturas selvagens para garantir sua sobrevivência e de sua família, os fracos simplesmente morrem.
+Já nas [[A Mesa/Regiões & Geopolítica/Regiões Bárbaras\|regiões bárbaras]], cada ser humano individual precisa ser capaz de lutar diariamente contra bestas e criaturas selvagens para garantir sua sobrevivência e de sua família, os fracos simplesmente morrem.
 # Culinária:
 A alimentação nórdica é fortemente baseada na carne proveniente da caça ou pesca. É muito comum o consumo de alimentos defumados ou fermentados, processos usados normalmente para garantir a conservação dos alimentos mas que agrega no sabor.
 ## Skeldar:

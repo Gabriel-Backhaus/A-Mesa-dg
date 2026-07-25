@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/A Mesa/Regiões & Geopolítica/Norden/","dg-note-properties":{}}
 ---
 
-
 > *"Não tomaram qualquer partido durante a [[A Mesa/Eventos/Guerra Anã\|Guerra Anã]], ou seria mais preciso dizer que tomaram os dois. Hoje percebe-se o quanto isso foi benéfico para eles."*
+> 
 > [[A Mesa/Personalidades/Professor Álvaro de Oliveira\|Professor Álvaro de Oliveira]], 461 T.E.
 
 Os **nordenianos** são conhecidos pela hospitalidade, pelo forte espírito comunitário e por sua tradição guerreira. Formado pela união de diversas comunidades sob a liderança do Primeiro Herr, o Reino de Norden consolidou-se como uma das principais potências militares da [[A Mesa/Eventos/Terceira Era\|Terceira Era]].
@@ -12,7 +12,7 @@ Embora a agricultura e a pecuária sustentem grande parte da população, o serv
 
 # Religião
 
-Os primeiros nordenianos eram quase inteiramente seguidores do [[A Mesa/Religiões/Duodecalismo\|Duodecalismo]], especialmente dos cultos de [[Cernunnos\|Cernunnos]], [[Bruma\|Bruma]] e [[Vater\|Vater]]. Nas comunidades rurais, antigas tradições animistas permaneceram presentes por muitos séculos, principalmente entre caçadores e habitantes das regiões mais próximas das terras bárbaras.
+Os primeiros nordenianos eram quase inteiramente seguidores do [[A Mesa/Religiões/Duodecalismo\|Duodecalismo]], especialmente dos cultos de [[Cernunnos\|Cernunnos]], [[Bruma\|Bruma]] e [[Vater\|Vater]]. Nas comunidades rurais, antigas tradições animistas permaneceram presentes por muitos séculos, principalmente entre caçadores e habitantes das regiões mais próximas das [[A Mesa/Regiões & Geopolítica/Regiões Bárbaras\|terras bárbaras]].
 
 A partir do século IV da [[A Mesa/Eventos/Terceira Era\|Terceira Era]], missionários de [[A Mesa/Regiões & Geopolítica/Agronostrum\|Agronostrum]] introduziram o [[A Mesa/Religiões/Enoquismo\|Enoquismo]] em Norden. A nova fé espalhou-se rapidamente pelas cidades e entre parte da nobreza, tornando-se uma das principais religiões do reino.
 

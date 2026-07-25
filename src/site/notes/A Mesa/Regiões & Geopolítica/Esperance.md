@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/A Mesa/Regiões & Geopolítica/Esperance/","dg-note-properties":{}}
 ---
 
-> _"Todo nostriano conhece Alvora. Mas todo nostriano sabe que sua história começou em Esperance."_
+> _"Todo nostriano conhece a história do desembarque em Esperance."_
 > 
 > — [[A Mesa/Personalidades/Professor Álvaro de Oliveira\|Professor Álvaro de Oliveira]], 459 T.E.
 
