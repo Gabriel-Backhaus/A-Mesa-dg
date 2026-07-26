@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/A Mesa/Regiões & Geopolítica/Mapa Mundi/","dg-note-properties":{}}
 ---
 
-
-## {"dg-publish","permalink":"/A Mesa/Mapa/","dg-note-properties":{}}
-
 # Mapa de A Mesa
 
 <div class="a-mesa-map" aria-label="Mapa de A Mesa"> <img src="/img/user/Imagens/mapa-a-mesa.jpg" alt="Mapa de A Mesa com os continentes Lartuath, Toir, Plagan e Aljanub." width="2048" height="1536">

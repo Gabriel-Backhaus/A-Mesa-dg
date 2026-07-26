@@ -19,3 +19,6 @@
 	1. [[A Mesa/Religiões/Duodecalismo\|Duodecalismo]]
 	2. [[A Mesa/Religiões/Enoquismo\|Enoquismo]]
 	3. [[A Mesa/Religiões/Animismo\|Animismo]]
+
+
+![mapa-a-mesa.jpg](/img/user/Imagens/mapa-a-mesa.jpg)
