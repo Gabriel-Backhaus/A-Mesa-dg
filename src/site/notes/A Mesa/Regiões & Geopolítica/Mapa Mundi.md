@@ -9,33 +9,33 @@
   const root = document.querySelector(".mapa-mundi-root");
   if (!root) return;
 
-  const areas = [
-    {
-      name: "Ana",
-      href: "/A%20Mesa/Regi%C3%B5es%20%26%20Geopol%C3%ADtica/Ana/",
-      x: 350, y: 380, width: 105, height: 62
-    },
-    {
-      name: "Norden",
-      href: "/A%20Mesa/Regi%C3%B5es%20%26%20Geopol%C3%ADtica/Norden/",
-      x: 620, y: 370, width: 155, height: 62
-    },
-    {
-      name: "Regiões Bárbaras",
-      href: "/A%20Mesa/Regi%C3%B5es%20%26%20Geopol%C3%ADtica/Regi%C3%B5es%20B%C3%A1rbaras/",
-      x: 875, y: 305, width: 270, height: 65
-    },
-    {
-      name: "Glória",
-      href: "/A%20Mesa/Regi%C3%B5es%20%26%20Geopol%C3%ADtica/Gloria/",
-      x: 760, y: 525, width: 125, height: 58
-    },
-    {
-      name: "Agronostrum",
-      href: "/A%20Mesa/Regi%C3%B5es%20%26%20Geopol%C3%ADtica/Agronostrum/",
-      x: 540, y: 565, width: 210, height: 60
-    }
-  ];
+const areas = [
+  {
+    name: "Ana",
+    href: "/A%20Mesa/Regi%C3%B5es%20%26%20Geopol%C3%ADtica/Ana/",
+    x: 250, y: 280, width: 260, height: 330
+  },
+  {
+    name: "Norden",
+    href: "/A%20Mesa/Regi%C3%B5es%20%26%20Geopol%C3%ADtica/Norden/",
+    x: 550, y: 300, width: 330, height: 240
+  },
+  {
+    name: "Regiões Bárbaras",
+    href: "/A%20Mesa/Regi%C3%B5es%20%26%20Geopol%C3%ADtica/Regi%C3%B5es%20B%C3%A1rbaras/",
+    x: 820, y: 200, width: 390, height: 220
+  },
+  {
+    name: "Glória",
+    href: "/A%20Mesa/Regi%C3%B5es%20%26%20Geopol%C3%ADtica/Gloria/",
+    x: 720, y: 470, width: 220, height: 160
+  },
+  {
+    name: "Agronostrum",
+    href: "/A%20Mesa/Regi%C3%B5es%20%26%20Geopol%C3%ADtica/Agronostrum/",
+    x: 450, y: 520, width: 320, height: 170
+  }
+];
 
   root.innerHTML = `
     <div class="mapa-mundi">
