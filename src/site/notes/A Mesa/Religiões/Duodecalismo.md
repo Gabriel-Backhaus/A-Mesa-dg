@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/A Mesa/Religiões/Duodecalismo/","dg-note-properties":{}}
 ---
 
-O **Duodecalismo** é a principal religião politeísta da Mesa, predominante em grande parte de [[Toir\|Toir]] e [[Lartuath\|Lartuath]], embora seus seguidores possam ser encontrados em praticamente todos os continentes. Seu nome deriva do culto aos **Doze Deuses**, as doze coroas divinas que governam a realidade. Embora cada divindade seja tradicionalmente associada a aspectos específicos da existência, todos os doze possuem autoridade absoluta sobre todo o universo.
+![ChatGPT Image 24 de jul. de 2026, 18_43_51.png\|685](/img/user/Imagens/ChatGPT%20Image%2024%20de%20jul.%20de%202026,%2018_43_51.png)O **Duodecalismo** é a principal religião politeísta da Mesa, predominante em grande parte de [[Toir\|Toir]] e [[Lartuath\|Lartuath]], embora seus seguidores possam ser encontrados em praticamente todos os continentes. Seu nome deriva do culto aos **Doze Deuses**, as doze coroas divinas que governam a realidade. Embora cada divindade seja tradicionalmente associada a aspectos específicos da existência, todos os doze possuem autoridade absoluta sobre todo o universo.
 
 Os duodecalistas acreditam que os deuses moldaram o mundo, criaram os povos mortais e estabeleceram as leis que regem a realidade. Diferente do [[A Mesa/Religiões/Enoquismo\|Enoquismo]], o Duodecalismo não possui um fundador, uma revelação única ou um texto sagrado central. Sua fé é preservada através de mitos, tradições, templos e ensinamentos transmitidos ao longo das gerações.
 
