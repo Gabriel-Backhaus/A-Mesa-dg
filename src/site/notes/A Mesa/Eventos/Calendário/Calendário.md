@@ -81,7 +81,7 @@
   const root = document.querySelector("#calendario-a-mesa");
 
   // Mude para true somente depois de criar as notas dos dias.
-  const dayPagesExist = false;
+  const dayPagesExist = true;
 
   function dayUrl(month, day) {
     if (!dayPagesExist) return `#${month.id}-${day}`;
